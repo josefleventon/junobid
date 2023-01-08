@@ -65,15 +65,15 @@ The contract provides three queries:
 - `bids`, which requires no arguments
 - `bid`, which requires a bidder address
 
-### `BiddingPeriod`
+### BiddingPeriod
 
 This query will return the current bidding period data, or `None` if there is no current bidding period.
 
-### `Bids`
+### Bids
 
 This query will return an array of all active bids.
 
-### `Bid`
+### Bid
 
 This query will return the data for a specific bid. You'll need to provide the address of the bidder whose data you'd like to query, like so:
 
