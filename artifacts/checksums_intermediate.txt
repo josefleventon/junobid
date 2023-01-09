@@ -1,0 +1,1 @@
+9afeddbd8558a8a128343d63f1d20e66cb9310ef6514e49d77af0810991aeaa3  ./target/wasm32-unknown-unknown/release/juno_bid.wasm
